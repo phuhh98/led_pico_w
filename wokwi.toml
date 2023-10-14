@@ -1,0 +1,6 @@
+[wokwi]
+version = 1
+rfc2217ServerPort = 4000
+gdbServerPort=3333
+firmware = 'build/blink.hex'
+elf = 'build/blink.elf'
